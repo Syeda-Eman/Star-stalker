@@ -29,10 +29,10 @@ A fast‑paced arcade game built in pure HTML
 
 ---
 
-## 🚀 How to Run
+## How to Run?
 
 1. **Download** the `star_stalker.html` file.
 2. **Double‑click** it – opens in your default web browser.
 3. **Start catching stars** immediately – no installation, no server needed.
 
-> 💡 *For best experience, use Chrome, Edge, Firefox, or Safari.*
+
