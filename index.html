@@ -293,14 +293,12 @@
                 ctx.textAlign = 'left';               
             }
         }
-
         function drawScore() {
             ctx.font = 'bold 32px monospace';
             ctx.fillStyle = '#f9e45b';
             ctx.shadowBlur = 0;
             ctx.fillText(score, 25, 55);
         }
-
         function draw() {
             drawBackground();
             drawStars();
@@ -309,7 +307,6 @@
             drawGameOver();
             drawScore();
         }
-
         function handleMouseMove(e) {
             const rect = canvas.getBoundingClientRect();
             const scaleX = canvas.width / rect.width;
@@ -317,7 +314,6 @@
             mouseCanvasX = Math.min(Math.max(mouseCanvasX, 0), W - BASKET_W);
             mouseX = mouseCanvasX;
         }
-
         function handleKeyDown(e) {
             if (e.key === 'ArrowLeft') {
                 e.preventDefault();
@@ -332,11 +328,9 @@
                 resetGame();
             }
         }
-
         function restartClick() {
             resetGame();
         }
-
         let animationId;
         function gameLoop() {
             updateGame();
