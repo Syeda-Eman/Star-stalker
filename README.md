@@ -4,7 +4,7 @@ A fast‑paced arcade game built in pure HTML
 
 ---
 
-## 🎮 How to Play
+## How to Play/
 
 - **Goal**: Catch as many ⭐ **stars** as possible while avoiding 💣 **bombs**.
 - **Controls**:
@@ -18,7 +18,7 @@ A fast‑paced arcade game built in pure HTML
 
 ---
 
-## ✨ Features
+## Features
 
 - **Two‑object gameplay** – Stars (good) and bombs (bad).
 - **Increasing difficulty** – Speed increases, spawn rate gets faster.
