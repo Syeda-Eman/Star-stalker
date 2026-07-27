@@ -120,7 +120,6 @@
         function updateScoreUI(){
             document.getElementById('scoreValue').innerText = score;
         }
-
         function spawnItem() {
             let x = Math.random() * (W - ITEM_SIZE);
             if(Math.random() < 0.7) {
@@ -129,7 +128,6 @@
                 bombs.push({x: x, y: 0});
             }
         }
-
         function resetGame(){
             gameRunning = true;
             score = 0;
@@ -142,7 +140,6 @@
             mouseX = basketX;
             updateScoreUI();
         }
-
         function checkCollisions() {
             let basketLeft = basketX;
             let basketRight = basketX + BASKET_W;
