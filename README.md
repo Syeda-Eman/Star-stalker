@@ -4,7 +4,7 @@ A fast‑paced arcade game built in pure HTML
 
 ---
 
-## How to Play/
+## How to Play?
 
 - **Goal**: Catch as many ⭐ **stars** as possible while avoiding 💣 **bombs**.
 - **Controls**:
@@ -31,7 +31,7 @@ A fast‑paced arcade game built in pure HTML
 
 ## How to Run?
 
-1. **Download** the `star_stalker.html` file.
+1. **Download** the `index.html` file.
 2. **Double‑click** it – opens in your default web browser.
 3. **Start catching stars** immediately – no installation, no server needed.
 
